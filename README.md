@@ -17,7 +17,7 @@ Power BI, Looker Studio, Tableau, SQL, Python, Pandas, ETL, Excel, Google Sheets
 * [Portfolio web](https://sites.google.com/view/ezemettler)
 * ehmettler@gmail.com
 
-
+---
 
 #### HELLO 👋
 * I'm Ezequiel, I'm a **Data Analyst** with extensive experience in e-commerce, marketing, and logistics. 
