@@ -1,4 +1,4 @@
-#### HOLA
+#### HOLA 👋
 * Soy Ezequiel y soy **Data Analyst** con experiencia en comercio electrónico, marketing y logística. 
 * Mi trabajo se centra en utilizar datos para mejorar la toma de decisiones, optimizar operaciones y resolver desafíos de negocios, identificando patrones y oportunidades.
 
@@ -19,7 +19,7 @@ Power BI, Looker Studio, Tableau, SQL, Python, Pandas, ETL, Excel, Google Sheets
 
 
 
-#### HELLO
+#### HELLO 👋
 * I'm Ezequiel, I'm a **Data Analyst** with extensive experience in e-commerce, marketing, and logistics. 
 * Leveraging data to enhance decision-making, optimize operations, and tackle business challenges by identifying patterns and opportunities.
 
